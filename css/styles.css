@@ -1,8 +1,5 @@
-h1 {
+h1, h2, h3 {
   color: pink;
-h2 {
-  color: blue;
-}
 p {
   font-family: sans-serif;
 }
